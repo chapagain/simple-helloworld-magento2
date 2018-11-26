@@ -1,6 +1,8 @@
 # Simple Hello World Module - Extension for Magento 2.x
 
-This is a basic/simple helloworld module in Magento2. It can be a good starting point on developing a module in Magento 2.x.
+This is a basic/simple helloworld module in Magento2. 
+
+It can be a good starting point on developing a module in Magento 2.x.
 
 ## Installation
 
