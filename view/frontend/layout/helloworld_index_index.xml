@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <title>
+            Simple Magento 2 Module
+        </title>
+    </head>
+    <body>
+        <referenceContainer name="content">
+            <block class="Chapagain\HelloWorld\Block\HelloWorld" name="helloworld" template="Chapagain_HelloWorld::helloworld.phtml" cacheable="false" />
+            <!--<block class="Magento\Framework\View\Element\Template" template="Chapagain_HelloWorld::helloworld.phtml"/>-->            
+        </referenceContainer>
+    </body>
+</page>
